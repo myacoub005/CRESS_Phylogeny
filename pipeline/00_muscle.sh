@@ -3,4 +3,4 @@
 
 module load muscle
 
-muscle -align BdDV1_CAP.fna -output BdDV1_CAP.fna.fasaln
+muscle -align CRESS_Reps.aa.fasta -output CRESS.fasaln
